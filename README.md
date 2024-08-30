@@ -1,16 +1,31 @@
-# toktik
+## toktik
 
-A new Flutter project.
+A video viewer 
 
-## Getting Started
+## Topics
 
-This project is a starting point for a Flutter application.
+- Paquetes
 
-A few resources to get you started if this is your first Flutter project:
+- Gesture Detector
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Posicionamiento de Widgets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Mappers
+
+- Gradientes
+
+- Loops
+
+- Aserciones
+
+- Stacks
+
+- Controladores de video
+
+### Visual Assets
+
+
+
+https://github.com/user-attachments/assets/b64b93dc-3a8d-411a-8757-d18d1fe5dfd6
+
+
